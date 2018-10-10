@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name = "quote">\"Hare Krishna Hare Krishna, Krishna Krishna Hare Hare\"</string>
+    <string name="init">0</string>
+</resources>
